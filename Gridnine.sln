@@ -3,7 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30104.148
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlightCodingTest", "FlightCodingTest\FlightCodingTest.csproj", "{FE410587-A2D5-47C4-B9FB-93B712BF796F}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE410587-A2D5-47C4-B9FB-93B712BF796F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE410587-A2D5-47C4-B9FB-93B712BF796F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE410587-A2D5-47C4-B9FB-93B712BF796F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE410587-A2D5-47C4-B9FB-93B712BF796F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
